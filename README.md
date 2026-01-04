@@ -21,5 +21,5 @@ A charades app that implements augmented reality to bring the classic party game
 ![Winners of the Augmented Reality Category](images/IMG_3272.jpg)
 *Team Char Coal taking 1st place in the AR category and 2nd place overall.*
 
-![People's Choice Award Winners](images/IMG_3246_cleaned.jpg)
+![People's Choice Award Winners](images/IMG_3246.jpg)
 *Accepting the People's Choice Award for ARtful w/ Saransh 😎. *
